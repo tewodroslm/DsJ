@@ -1,4 +1,4 @@
-package com.practice.HashMap;
+package com.practice.HashTable;
 
 import java.util.*;
 
