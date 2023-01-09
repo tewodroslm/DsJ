@@ -7,12 +7,22 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
-
-        RemoveElement rElment = new RemoveElement();
-
-        //  int[] x = {1,1,2,3,4,55,66,78,78,84};
-        // int[] x = {0,1,2,2,3,0,4,2};
-        int[] x = {3,2,2,3};
-
     }
 }
+
+/**
+ * Data Structures and Algorithms
+ */
+
+/***
+ * Arrays and strings   -> List, ArrayList, [], String, String constant pool Heap mem
+ * Hashmaps and sets    -> HashMap, HashSet
+ * Linked lists         ->
+ * Stacks and queues    -> Queue , Stack, Deque
+ * Trees and graphs     -> DFS,BFS , ...Binary Tree
+ * Heaps
+ * Greedy algorithms
+ * Binary search        ->
+ * Backtracking
+ * Dynamic programming  -> ...
+ */
