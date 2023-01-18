@@ -17,7 +17,7 @@ public class Main {
 /***
  * Arrays and strings   -> List, ArrayList, [], String, String constant pool Heap mem
  * Hashmaps and sets    -> HashMap, HashSet
- * Linked lists         ->
+ * Linked lists         -> LinkedListImp ... in my prcts
  * Stacks and queues    -> Queue , Stack, Deque
  * Trees and graphs     -> DFS,BFS , ...Binary Tree
  * Heaps
